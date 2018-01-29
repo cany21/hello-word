@@ -1,2 +1,2 @@
 # hello-word
-Hi, Learn how to use github
+Hi,I am reading how to use github for the first time!
